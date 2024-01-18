@@ -58,6 +58,7 @@
 .playerPosition{
     position: absolute;
     left: 0;
+    z-index: 1;
 }
 
 .btnAdd {
